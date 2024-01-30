@@ -65,10 +65,10 @@ body,
 }
 
 .food{
-    background-color: aqua;
-    border: #999 5px solid;
+    background-color: darkred;
+    border: rgb(73, 17, 17) 3px solid;
 }
 
-.logo{
+#logo{
     position: absolute;
 }
